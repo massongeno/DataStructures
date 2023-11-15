@@ -1,5 +1,5 @@
 # DataStructures
-All the projects I created for CS 3345 Data Structures &amp; Algorithm Analysis.
+A collection of projects I completed for CS 3345 Data Structures &amp; Algorithm Analysis.
 
 Created partially using source code from:
 
