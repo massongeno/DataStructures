@@ -1,5 +1,8 @@
 package datastructproject3;
 
+//PROJECT CREATED USING CODE SUPPLIED BY MARK ALLEN WEISS'S "Data Structures and Algorithm Analysis in Java (Third Edition)"
+//--------------------------------------------------------------------------------------------------------------------------
+
 // BinaryHeap class
 //
 // CONSTRUCTION: with optional capacity (that defaults to 100)
