@@ -17,7 +17,8 @@
 /**
  * Implements an unbalanced binary search tree.
  * Note that all "matching" is based on the compareTo method.
- * @author Mark Allen Weiss
+ * Primary @author Mark Allen Weiss
+ * compare, equals, isMirror, rotateRight, rotateLeft, compareStructure, nodeCount, and printLevels all done by me.
  */
 public class BinarySearchTree<AnyType extends Comparable<? super AnyType>>
 {
